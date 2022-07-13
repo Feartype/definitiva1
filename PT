@@ -1,8 +1,6 @@
 #EXTM3U8
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV +
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161969?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",Porto Canal
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 2
