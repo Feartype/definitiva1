@@ -1,165 +1,165 @@
 #EXTM3U8
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV +
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV +
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161969?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Porto Canal
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 2
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161957?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161966?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 3 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 4
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161967?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 4 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 5
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161968?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 5 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1459?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV NBA HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV NBA HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/252145?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",REAL MADRID TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",REAL MADRID TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136663?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",REDBULL TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",REDBULL TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178144?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TV RECORD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",TV RECORD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2225?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",sporttvmais
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",sporttvmais
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",A BOLA TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",A BOLA TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136661?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205656?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN MOVIES
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN MOVIES
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167481?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN MOVIES H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN MOVIES H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132924?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN MOVIES HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN MOVIES HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205657?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN WHITE
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN WHITE
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167482?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN WHITE H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN WHITE H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132925?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN WHITE HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN WHITE HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205658?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",BTV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",BTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161970?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",BTV H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",BTV H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/271763?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",BTV HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",BTV HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205659?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVENSPORT 6 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVENSPORT 6 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159768?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX MOVIES
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX MOVIES
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2207?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX LIFE HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX LIFE HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/233866?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX LIFE
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX LIFE
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/167480?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX LIFE H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX LIFE H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132915?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX NEWS
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX NEWS
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132917?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX MOVIES HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX MOVIES HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374641?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2206?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX CRIME HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209536?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",HOLLYWOOD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",HOLLYWOOD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132921?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",HOLLYWOOD H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",HOLLYWOOD H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/196607?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",HOLLYWOOD HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",HOLLYWOOD HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/221898?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",PORTO CANAL
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",PORTO CANAL
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2210?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT 4 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORT 4 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159766?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158069?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 SD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 1 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164977?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158902?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 SD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 2 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164978?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 3 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159765?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 SD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 3 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164979?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 SD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 4 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164980?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 SD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 5 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164981?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 SD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 6 SD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164982?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVENSPORT 5 HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVENSPORT 5 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159767?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198366?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX COMEDY
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX COMEDY
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2208?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX CRIME
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132913?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX CRIME H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132914?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",FOX HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205661?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",HISTORIA
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Documentarios",HISTORIA
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2227?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",ID INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",ID INVESTIGATION DISCOVERY
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136266?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",ID INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",ID INVESTIGATION DISCOVERY HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136671?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",REDBULL TV 1080
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",REDBULL TV 1080
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178148?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SYFY
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",SYFY
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169312?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious;Undefined",Sobrenatural TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religião",Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE ACTION H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207343?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE ACTION HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2237?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EDITION H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE EDITION H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207334?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EDITION HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE EDITION HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2235?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EMOTION H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE EMOTION H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207342?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EMOTION HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE EMOTION HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2236?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE TOP
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/194449?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP  H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE TOP  H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/207333?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",TVCINE TOP HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2234?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Culinária",24 KITCHEN
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234098?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Culinária",24 KITCHEN H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2203?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AFRO MUSIC CHANNEL
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Música",AFRO MUSIC CHANNEL
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136674?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AMC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132923?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AMC H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169311?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC HD
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AMC HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209534?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136668?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN H.265/HEVC
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",AXN H.265/HEVC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2233?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BABY TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136667?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BLAZE
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",BLAZE
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158901?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BLOOMBERG
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136683?checkedby:iptvcat.com
@@ -175,13 +175,13 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/165587?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/251726?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CAÇA E PESCA
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132899?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CINEMUNDO
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",CINEMUNDO
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132905?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CMTV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Cemitério",CMTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CNN PORTUGAL
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Cemitério",CNN PORTUGAL
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2221?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CRIME + INVESTIGATION TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Filmes & Series",CRIME + INVESTIGATION TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136629?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="https://cdn.one.accedo.tv/files/5da5efcea0e845000ed0e5d4?sessionKey=01FNEJ1BS1DAS4AGH38M9E3DZ01A65B14752.png" group-title="Sports",Canal 11 (720p)
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8?checkedby:iptvcat.com
@@ -287,9 +287,9 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/198367?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/252146?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",canal11
 http://62.28.71.186:45678/http/192.168.150.50:7050/canal11?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",eleven1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven3
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Desporto",eleven3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI REALITY MOSAICO
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/264147?checkedby:iptvcat.com
