@@ -1,394 +1,152 @@
 #EXTM3U
-#EXTINF:-1,RTP 3
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8%7Cuser-agent=Opera
-#EXTINF:-1,SIC Notícias
-#EXTVLCOPT:network-caching=1000
-https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1,CNN Portugal
-#EXTVLCOPT:network-caching=1000
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIyIDEwOjE5OjU0IFBNJmhhc2hfdmFsdWU9UnZtdmZGeDViR2gyTmFTWUlWZEdMUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFkNDU1ODBlLWQ4MmYtNGQ4MC04YzgwLTRjOGUxYmZjZDc3YQ==/
-#EXTINF:-1,Euronews PT
-#EXTVLCOPT:network-caching=1000
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,RTP Açores
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8%7Cuser-agent=Opera
-#EXTINF:-1,RTP Madeira
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8%7Cuser-agent=Opera
-#EXTINF:-1,RTP África
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8%7Cuser-agent=Opera
-#EXTINF:-1,RTP Internacional
-#EXTVLCOPT:network-caching=1000
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8%7Cuser-agent=Opera
-#EXTINF:-1,TVI Internacional
-#EXTVLCOPT:network-caching=1000
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIyIDEwOjE5OjU1IFBNJmhhc2hfdmFsdWU9UWxMUTA5WWVkZVJkT2xwbTZSU1R1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ4NjE0NzBmLTJiMjUtNGY3OC1hN2QwLWJiYjUwODY0NWM0Nw==/
-#EXTINF:-1,TVI Ficção
-#EXTVLCOPT:network-caching=1000
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1,TVI Reality
-#EXTVLCOPT:network-caching=1000
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
-#EXTINF:-1,Porto Canal
-#EXTVLCOPT:network-caching=1000
-https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1,Fama TV
-#EXTVLCOPT:network-caching=1000
-https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
-#EXTINF:-1,Canal 11
-#EXTVLCOPT:network-caching=1000
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1,MyTime Movie Network (BR)
-#EXTVLCOPT:network-caching=1000
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,MovieSphere
-#EXTVLCOPT:network-caching=1000
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Love Nature TV
-#EXTVLCOPT:network-caching=1000
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,PBS America
-#EXTVLCOPT:network-caching=1000
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Porta dos Fundos
-#EXTVLCOPT:network-caching=1000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1,BraziTV
-#EXTVLCOPT:network-caching=1000
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1,TV Câmara
-#EXTVLCOPT:network-caching=1000
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1,Canal Futura
-#EXTVLCOPT:network-caching=1000
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1,AgroBrasil TV
-#EXTVLCOPT:network-caching=1000
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1,SBT
-#EXTVLCOPT:network-caching=1000
-https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1,TDM - Teledifusão de Macau (PT)
-#EXTVLCOPT:network-caching=1000
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1,TDM - Teledifusão de Macau (CN)
-#EXTVLCOPT:network-caching=1000
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1,TVM
-#EXTVLCOPT:network-caching=1000
-http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1,TVM Internacional
-#EXTVLCOPT:network-caching=1000
-http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1,STV
-#EXTVLCOPT:network-caching=1000
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
-#EXTINF:-1,Euronews EN
-#EXTVLCOPT:network-caching=1000
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Euronews ES
-#EXTVLCOPT:network-caching=1000
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Euronews IT
-#EXTVLCOPT:network-caching=1000
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Euronews FR
-#EXTVLCOPT:network-caching=1000
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Euronews DE
-#EXTVLCOPT:network-caching=1000
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,teleSUR
-#EXTVLCOPT:network-caching=1000
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1,teleSUR English
-#EXTVLCOPT:network-caching=1000
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1,HispanTV
-#EXTVLCOPT:network-caching=1000
-https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1,Press TV
-#EXTVLCOPT:network-caching=1000
-https://live1.presstv.ir/live/presstv.m3u8
-#EXTINF:-1,Free Speech TV
-#EXTVLCOPT:network-caching=1000
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
-#EXTINF:-1,RT News
-#EXTVLCOPT:network-caching=1000
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8?
-#EXTINF:-1,CGTN
-#EXTVLCOPT:network-caching=1000
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CGTN Español
-#EXTVLCOPT:network-caching=1000
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,CGTN Français
-#EXTVLCOPT:network-caching=1000
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1,CGTN Documentary
-#EXTVLCOPT:network-caching=1000
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,Al Jazeera English
-#EXTVLCOPT:network-caching=1000
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,CNN
-#EXTVLCOPT:network-caching=1000
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,ABC News
-#EXTVLCOPT:network-caching=1000
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,CBS News
-#EXTVLCOPT:network-caching=1000
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1,NBC News Now
-#EXTVLCOPT:network-caching=1000
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1,NASA TV Public
-#EXTVLCOPT:network-caching=1000
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1,NASA TV Media
-#EXTVLCOPT:network-caching=1000
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1,Bloomberg TV Europe
-#EXTVLCOPT:network-caching=1000
-https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg TV Brasil
-#EXTVLCOPT:network-caching=1000
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg TV
-#EXTVLCOPT:network-caching=1000
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1,NHK World Japan
-#EXTVLCOPT:network-caching=1000
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1,Deutsche Welle
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,Deutsche Welle Español
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,Deutsche Welle Deutsch
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1,Deutsche Welle Deutsch+
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1,Deutsche Welle Arabic
-#EXTVLCOPT:network-caching=1000
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1,TV5 Monde Info
-#EXTVLCOPT:network-caching=1000
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1,BFM TV
-#EXTVLCOPT:network-caching=1000
-https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
-#EXTINF:-1,BFM Business
-#EXTVLCOPT:network-caching=1000
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1,7NN Noticias
-#EXTVLCOPT:network-caching=1000
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1,TVE 24h
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
-#EXTINF:-1,La 1
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
-#EXTINF:-1,La 2
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
-#EXTINF:-1,TV Galicia
-#EXTVLCOPT:network-caching=1000
-https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
-#EXTINF:-1,TV Galicia América
-#EXTVLCOPT:network-caching=1000
-https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
-#EXTINF:-1,TV Galicia Cultural
-#EXTVLCOPT:network-caching=1000
-https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TV Galicia Infantil
-#EXTVLCOPT:network-caching=1000
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TV Galicia Musigal
-#EXTVLCOPT:network-caching=1000
-https://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,TeleMadrid
-#EXTVLCOPT:network-caching=1000
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-#EXTINF:-1,TV3 Catalunya
-#EXTVLCOPT:network-caching=1000
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8
-#EXTINF:-1,Canal Málaga
-#EXTVLCOPT:network-caching=1000
-http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1,Aragón TV
-#EXTVLCOPT:network-caching=1000
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1,ETB 1
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
-#EXTINF:-1,ETB 2
-#EXTVLCOPT:network-caching=1000
-https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
-#EXTINF:-1,EITB.EUS
-#EXTVLCOPT:network-caching=1000
-https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/index.m3u8
-#EXTINF:-1,Canal Extremadura
-#EXTVLCOPT:network-caching=1000
-https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1,Cubavisión Internacional
-#EXTVLCOPT:network-caching=1000
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8%7CReferer=https://teveo.cu/
-#EXTINF:-1,Nick Clássico
-#EXTVLCOPT:network-caching=1000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1,BabyFirst
-#EXTVLCOPT:network-caching=1000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1,Retrô Cartoon
-#EXTVLCOPT:network-caching=1000
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1,Locomotion
-#EXTVLCOPT:network-caching=1000
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,Gulli
-#EXTVLCOPT:network-caching=1000
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1,On FM Portugal
-#EXTVLCOPT:network-caching=1000
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1,Rádio Sines
-#EXTVLCOPT:network-caching=1000
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-#EXTINF:-1,Rádio Clube TV
-#EXTVLCOPT:network-caching=1000
-https://stmv1.srvsite.com/clubefmradio/clubefmradio/playlist.m3u8
-#EXTINF:-1,Trace Urban
-#EXTVLCOPT:network-caching=1000
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Clubbing TV
-#EXTVLCOPT:network-caching=1000
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,1HD Music
-#EXTVLCOPT:network-caching=1000
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1,NRG 91 TV
-#EXTVLCOPT:network-caching=1000
-http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
-#EXTINF:-1,DeeJay TV
-#EXTVLCOPT:network-caching=1000
-https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1,4Fun.TV
-#EXTVLCOPT:network-caching=1000
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1,Fuel TV 
-#EXTVLCOPT:network-caching=1000
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Red Bull TV 
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
-#EXTVLCOPT:network-caching=1000
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
-#EXTVLCOPT:network-caching=1000
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1,Abu Dhabi Sports 3
-#EXTVLCOPT:network-caching=1000
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1,Abu Dhabi Sports 4
-#EXTVLCOPT:network-caching=1000
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1,Yas TV
-#EXTVLCOPT:network-caching=1000
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports
-#EXTVLCOPT:network-caching=1000
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1,Dubai Sports 2
-#EXTVLCOPT:network-caching=1000
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1,Dubai Sports 3
-#EXTVLCOPT:network-caching=1000
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1,Dubai Racing
-#EXTVLCOPT:network-caching=1000
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8
-#EXTINF:-1,Dubai Racing 2
-#EXTVLCOPT:network-caching=1000
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
-#EXTINF:-1,Fashion TV
-#EXTVLCOPT:network-caching=1000
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1,HD Fashion & Lifestyle TV
-#EXTVLCOPT:network-caching=1000
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,World Fashion Channel
-#EXTVLCOPT:network-caching=1000
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1,Dubai One
-#EXTVLCOPT:network-caching=1000
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1,ICI Television
-#EXTVLCOPT:network-caching=1000
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1,Grand Lille TV
-#EXTVLCOPT:network-caching=1000
-https://str81.creacast.com/grandlilletv/high/playlist.m3u8
-#EXTINF:-1,Grand Littoral TV
-#EXTVLCOPT:network-caching=1000
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1,Alsace 20
-#EXTVLCOPT:network-caching=1000
-https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,Das Erste
-#EXTVLCOPT:network-caching=1000
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1,Akaku TV 1
-#EXTVLCOPT:network-caching=1000
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
-#EXTINF:-1,Akaku TV 2
-#EXTVLCOPT:network-caching=1000
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-#EXTINF:-1,Akaku TV 3
-#EXTVLCOPT:network-caching=1000
-https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-#EXTINF:-1,[PT]Sport TV 1 SD
+#EXTINF:0,[PT]RTP 1 HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1257
+#EXTINF:0,[PT]RTP 2 HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1256
+#EXTINF:0,[PT]RTP 3
+http://2mtv.net:8080/mahmoudaswa/26887329/1255
+#EXTINF:0,[PT]SIC HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1254
+#EXTINF:0,[PT]TVI HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1253
+#EXTINF:0,[PT]SIC Noticias HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1252
+#EXTINF:0,[PT]CM TV HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1251
+#EXTINF:0,[PT]CNN Portugal
+http://2mtv.net:8080/mahmoudaswa/26887329/1250
+#EXTINF:0,[PT]Bloomberg
+http://2mtv.net:8080/mahmoudaswa/26887329/1249
+#EXTINF:0,[PT]RTP MADEIRA
+http://2mtv.net:8080/mahmoudaswa/26887329/1248
+#EXTINF:0,[PT]TVI FICCAO HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1247
+#EXTINF:0,[PT]TVI Reality
+http://2mtv.net:8080/mahmoudaswa/26887329/1246
+#EXTINF:0,[PT]SIC Mulher
+http://2mtv.net:8080/mahmoudaswa/26887329/1245
+#EXTINF:0,[PT]SIC Radical
+http://2mtv.net:8080/mahmoudaswa/26887329/1244
+#EXTINF:0,[PT]TV Globo
+http://2mtv.net:8080/mahmoudaswa/26887329/1243
+#EXTINF:0,[PT]Kuriakos TV
+http://2mtv.net:8080/mahmoudaswa/26887329/1242
+#EXTINF:0,[PT]FATIMA TV
+http://2mtv.net:8080/mahmoudaswa/26887329/1241
+#EXTINF:0,[PT]RTP Africa
+http://2mtv.net:8080/mahmoudaswa/26887329/1240
+#EXTINF:0,[PT]RTP Acores
+http://2mtv.net:8080/mahmoudaswa/26887329/1239
+#EXTINF:0,[PT]SIC INTERNACIONAL
+http://2mtv.net:8080/mahmoudaswa/26887329/1238
+#EXTINF:0,[PT]TV Record HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1237
+#EXTINF:0,[PT]TVE Internacional
+http://2mtv.net:8080/mahmoudaswa/26887329/1236
+#EXTINF:0,[PT]Euro Channel HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1235
+#EXTINF:0,[PT]AZORES TV
+http://2mtv.net:8080/mahmoudaswa/26887329/1234
+#EXTINF:0,[PT]STAR + HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1233
+#EXTINF:0,[PT]LOCALVISAO
+http://2mtv.net:8080/mahmoudaswa/26887329/1232
+#EXTINF:0,[PT]SIC ADVANCE
+http://2mtv.net:8080/mahmoudaswa/26887329/1231
+#EXTINF:0,[PT]SIC OPTO
+http://2mtv.net:8080/mahmoudaswa/26887329/1230
+#EXTINF:0,[PT]Galicia HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1229
+#EXTINF:0,[PT]Cancao Nova
+http://2mtv.net:8080/mahmoudaswa/26887329/1228
+#EXTINF:0,[PT]Fox HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1227
+#EXTINF:0,[PT]Fox Comedy HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1226
+#EXTINF:0,[PT]Fox Crime HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1225
+#EXTINF:0,[PT]Fox Life HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1224
+#EXTINF:0,[PT]FOX Movies HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1223
+#EXTINF:0,[PT]TV Cine Action HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1222
+#EXTINF:0,[PT]TV Cine Edition HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1221
+#EXTINF:0,[PT]TV CINE TOP HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1220
+#EXTINF:0,[PT]AXN HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1219
+#EXTINF:0,[PT]AXN White
+http://2mtv.net:8080/mahmoudaswa/26887329/1218
+#EXTINF:0,[PT]AMC
+http://2mtv.net:8080/mahmoudaswa/26887329/1217
+#EXTINF:0,[PT]Cinemundo HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1216
+#EXTINF:0,[PT]NOS STUDIOS HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1215
+#EXTINF:0,[PT]Hollywood HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1214
+#EXTINF:0,[PT]HBO Portugal
+http://2mtv.net:8080/mahmoudaswa/26887329/1213
+#EXTINF:0,[PT]SyFy HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1212
+#EXTINF:0,[PT]CACAVISION
+http://2mtv.net:8080/mahmoudaswa/26887329/1211
+#EXTINF:0,[PT]SIC Caras HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1210
+#EXTINF:0,[PT]Odisseia HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1209
+#EXTINF:0,[PT]TLC
+http://2mtv.net:8080/mahmoudaswa/26887329/1208
+#EXTINF:0,[PT]CBS Reality
+http://2mtv.net:8080/mahmoudaswa/26887329/1207
+#EXTINF:0,[PT]Blaze HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1206
+#EXTINF:0,[PT]24 Kitchen HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1205
+#EXTINF:0,[PT]Zap Viva HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1204
+#EXTINF:0,[PT]TPA INTERNACIONAL
+http://2mtv.net:8080/mahmoudaswa/26887329/1203
+#EXTINF:0,[PT]DOG TV
+http://2mtv.net:8080/mahmoudaswa/26887329/1202
+#EXTINF:0,[PT]Canal 11 HD
+http://2mtv.net:8080/mahmoudaswa/26887329/1201
+#EXTINF:0,[PT]Sport TV 1 SD
 http://2mtv.net:8080/mahmoudaswa/26887329/1200
-#EXTINF:-1,[PT]Sport  TV 2 SD
+#EXTINF:0,[PT]Sport  TV 2 SD
 http://2mtv.net:8080/mahmoudaswa/26887329/1199
-#EXTINF:-1,[PT]Sport TV 3 SD
+#EXTINF:0,[PT]Sport TV 3 SD
 http://2mtv.net:8080/mahmoudaswa/26887329/1198
-#EXTINF:-1,[PT]Sport TV 4 HD
+#EXTINF:0,[PT]Sport TV 4 HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1197
-#EXTINF:-1,[PT]Sport TV 5 HD
+#EXTINF:0,[PT]Sport TV 5 HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1196
-#EXTINF:-1,[PT]Eleven Sport 1 HD
+#EXTINF:0,[PT]Eleven Sport 1 HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1195
-#EXTINF:-1,[PT]Eleven Sport 2 HD
+#EXTINF:0,[PT]Eleven Sport 2 HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1194
-#EXTINF:-1,[PT]Eleven Sport 3 HD
+#EXTINF:0,[PT]Eleven Sport 3 HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1193
-#EXTINF:-1,[PT]Eleven Sport 4 HD
+#EXTINF:0,[PT]Eleven Sport 4 HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1192
-#EXTINF:-1,[PT]BTV HD
+#EXTINF:0,[PT]BTV HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1191
-#EXTINF:-1,[PT]Sporting TV
+#EXTINF:0,[PT]Sporting TV
 http://2mtv.net:8080/mahmoudaswa/26887329/1190
-#EXTINF:-1,[PT]Porto Canal HD
+#EXTINF:0,[PT]Porto Canal HD
 http://2mtv.net:8080/mahmoudaswa/26887329/1189
-#EXTINF:-1,[PT]Sport TV NBA
+#EXTINF:0,[PT]Sport TV NBA
 http://2mtv.net:8080/mahmoudaswa/26887329/1188
-#EXTINF:-1,[PT]Kombat Sport
+#EXTINF:0,[PT]Kombat Sport
 http://2mtv.net:8080/mahmoudaswa/26887329/1187
-#EXTINF:-1,[PT]Fuel TV
+#EXTINF:0,[PT]Fuel TV
 http://2mtv.net:8080/mahmoudaswa/26887329/1186
-#EXTINF:-1,[PT]A Bola TV
+#EXTINF:0,[PT]A Bola TV
 http://2mtv.net:8080/mahmoudaswa/26887329/1185
-#EXTINF:-1,[PT]Motorvision
+#EXTINF:0,[PT]Motorvision
 http://2mtv.net:8080/mahmoudaswa/26887329/1184
-#EXTINF:-1,[PT]Toros TV
+#EXTINF:0,[PT]Toros TV
 http://2mtv.net:8080/mahmoudaswa/26887329/1183
+
