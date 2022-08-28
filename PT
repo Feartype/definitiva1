@@ -1,152 +1,385 @@
 #EXTM3U
-#EXTINF:0,[PT]RTP 1 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1257
-#EXTINF:0,[PT]RTP 2 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1256
-#EXTINF:0,[PT]RTP 3
-http://2mtv.net:8080/mahmoudaswa/26887329/1255
-#EXTINF:0,[PT]SIC HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1254
-#EXTINF:0,[PT]TVI HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1253
-#EXTINF:0,[PT]SIC Noticias HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1252
-#EXTINF:0,[PT]CM TV HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1251
-#EXTINF:0,[PT]CNN Portugal
-http://2mtv.net:8080/mahmoudaswa/26887329/1250
-#EXTINF:0,[PT]Bloomberg
-http://2mtv.net:8080/mahmoudaswa/26887329/1249
-#EXTINF:0,[PT]RTP MADEIRA
-http://2mtv.net:8080/mahmoudaswa/26887329/1248
-#EXTINF:0,[PT]TVI FICCAO HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1247
-#EXTINF:0,[PT]TVI Reality
-http://2mtv.net:8080/mahmoudaswa/26887329/1246
-#EXTINF:0,[PT]SIC Mulher
-http://2mtv.net:8080/mahmoudaswa/26887329/1245
-#EXTINF:0,[PT]SIC Radical
-http://2mtv.net:8080/mahmoudaswa/26887329/1244
-#EXTINF:0,[PT]TV Globo
-http://2mtv.net:8080/mahmoudaswa/26887329/1243
-#EXTINF:0,[PT]Kuriakos TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1242
-#EXTINF:0,[PT]FATIMA TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1241
-#EXTINF:0,[PT]RTP Africa
-http://2mtv.net:8080/mahmoudaswa/26887329/1240
-#EXTINF:0,[PT]RTP Acores
-http://2mtv.net:8080/mahmoudaswa/26887329/1239
-#EXTINF:0,[PT]SIC INTERNACIONAL
-http://2mtv.net:8080/mahmoudaswa/26887329/1238
-#EXTINF:0,[PT]TV Record HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1237
-#EXTINF:0,[PT]TVE Internacional
-http://2mtv.net:8080/mahmoudaswa/26887329/1236
-#EXTINF:0,[PT]Euro Channel HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1235
-#EXTINF:0,[PT]AZORES TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1234
-#EXTINF:0,[PT]STAR + HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1233
-#EXTINF:0,[PT]LOCALVISAO
-http://2mtv.net:8080/mahmoudaswa/26887329/1232
-#EXTINF:0,[PT]SIC ADVANCE
-http://2mtv.net:8080/mahmoudaswa/26887329/1231
-#EXTINF:0,[PT]SIC OPTO
-http://2mtv.net:8080/mahmoudaswa/26887329/1230
-#EXTINF:0,[PT]Galicia HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1229
-#EXTINF:0,[PT]Cancao Nova
-http://2mtv.net:8080/mahmoudaswa/26887329/1228
-#EXTINF:0,[PT]Fox HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1227
-#EXTINF:0,[PT]Fox Comedy HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1226
-#EXTINF:0,[PT]Fox Crime HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1225
-#EXTINF:0,[PT]Fox Life HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1224
-#EXTINF:0,[PT]FOX Movies HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1223
-#EXTINF:0,[PT]TV Cine Action HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1222
-#EXTINF:0,[PT]TV Cine Edition HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1221
-#EXTINF:0,[PT]TV CINE TOP HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1220
-#EXTINF:0,[PT]AXN HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1219
-#EXTINF:0,[PT]AXN White
-http://2mtv.net:8080/mahmoudaswa/26887329/1218
-#EXTINF:0,[PT]AMC
-http://2mtv.net:8080/mahmoudaswa/26887329/1217
-#EXTINF:0,[PT]Cinemundo HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1216
-#EXTINF:0,[PT]NOS STUDIOS HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1215
-#EXTINF:0,[PT]Hollywood HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1214
-#EXTINF:0,[PT]HBO Portugal
-http://2mtv.net:8080/mahmoudaswa/26887329/1213
-#EXTINF:0,[PT]SyFy HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1212
-#EXTINF:0,[PT]CACAVISION
-http://2mtv.net:8080/mahmoudaswa/26887329/1211
-#EXTINF:0,[PT]SIC Caras HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1210
-#EXTINF:0,[PT]Odisseia HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1209
-#EXTINF:0,[PT]TLC
-http://2mtv.net:8080/mahmoudaswa/26887329/1208
-#EXTINF:0,[PT]CBS Reality
-http://2mtv.net:8080/mahmoudaswa/26887329/1207
-#EXTINF:0,[PT]Blaze HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1206
-#EXTINF:0,[PT]24 Kitchen HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1205
-#EXTINF:0,[PT]Zap Viva HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1204
-#EXTINF:0,[PT]TPA INTERNACIONAL
-http://2mtv.net:8080/mahmoudaswa/26887329/1203
-#EXTINF:0,[PT]DOG TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1202
-#EXTINF:0,[PT]Canal 11 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1201
-#EXTINF:0,[PT]Sport TV 1 SD
-http://2mtv.net:8080/mahmoudaswa/26887329/1200
-#EXTINF:0,[PT]Sport  TV 2 SD
-http://2mtv.net:8080/mahmoudaswa/26887329/1199
-#EXTINF:0,[PT]Sport TV 3 SD
-http://2mtv.net:8080/mahmoudaswa/26887329/1198
-#EXTINF:0,[PT]Sport TV 4 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1197
-#EXTINF:0,[PT]Sport TV 5 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1196
-#EXTINF:0,[PT]Eleven Sport 1 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1195
-#EXTINF:0,[PT]Eleven Sport 2 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1194
-#EXTINF:0,[PT]Eleven Sport 3 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1193
-#EXTINF:0,[PT]Eleven Sport 4 HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1192
-#EXTINF:0,[PT]BTV HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1191
-#EXTINF:0,[PT]Sporting TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1190
-#EXTINF:0,[PT]Porto Canal HD
-http://2mtv.net:8080/mahmoudaswa/26887329/1189
-#EXTINF:0,[PT]Sport TV NBA
-http://2mtv.net:8080/mahmoudaswa/26887329/1188
-#EXTINF:0,[PT]Kombat Sport
-http://2mtv.net:8080/mahmoudaswa/26887329/1187
-#EXTINF:0,[PT]Fuel TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1186
-#EXTINF:0,[PT]A Bola TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1185
-#EXTINF:0,[PT]Motorvision
-http://2mtv.net:8080/mahmoudaswa/26887329/1184
-#EXTINF:0,[PT]Toros TV
-http://2mtv.net:8080/mahmoudaswa/26887329/1183
-
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN
+http://mains.services:2086/A.Jones01/1904550/92116?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",24 KITCHEN
+http://cineapp.org:8000/Fernando/Fernando/5065?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",A BOLA
+http://mains.services:2086/A.Jones01/1904550/92131?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",A&E
+http://mains.services:2086/A.Jones01/1904550/92113?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AFRO MUSIC
+http://mains.services:2086/A.Jones01/1904550/92104?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC HD
+http://cineapp.org:8000/Fernando/Fernando/28523?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN
+http://mains.services:2086/A.Jones01/1904550/92079?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN BLACK
+http://mains.services:2086/A.Jones01/1904550/92081?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN WHITE
+http://cineapp.org:8000/Fernando/Fernando/2309?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BABY TV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77381?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BENFICA1
+http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BIGGS
+http://mains.services:2086/A.Jones01/1904550/92078?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",BTV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77364?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Baby Tv
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106271?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Benfica TV PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Bola TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bola.tv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CANAL PANDA
+http://mains.services:2086/A.Jones01/1904550/92072?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CANAL Q
+http://mains.services:2086/A.Jones01/1904550/92060?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CANCAO NOVA
+http://mains.services:2086/A.Jones01/1904550/92070?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://cineapp.org:8000/Fernando/Fernando/2323?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CASA E PESCA
+http://mains.services:2086/A.Jones01/1904550/92111?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CASAVISION
+http://mains.services:2086/A.Jones01/1904550/92118?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CINE MUNDO
+http://cineapp.org:8000/Fernando/Fernando/3422?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CINE MUNDO
+http://mains.services:2086/A.Jones01/1904550/92093?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CM TV
+http://cineapp.org:8000/Fernando/Fernando/3434?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CMTV
+http://mains.services:2086/A.Jones01/1904550/92130?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CMTV FHD
+http://cineapp.org:8000/Fernando/Fernando/28506?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CMTV PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cmtv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CNN
+http://cineapp.org:8000/Fernando/Fernando/17258?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CNN Portugal
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106542?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",COMBATE HD
+http://cineapp.org:8000/Fernando/Fernando/28610?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",CRIME INVESTIGAÇÃO SD
+http://cineapp.org:8000/Fernando/Fernando/28594?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Canal 11
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.11.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Canal Hollywood
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.hollywood.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Cançao Nova
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106529?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Cnn
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106484?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",DISCOVERY
+http://cineapp.org:8000/Fernando/Fernando/3432?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mains.services:2086/A.Jones01/1904550/92110?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",DISCOVERY SHOWCASE
+http://mains.services:2086/A.Jones01/1904550/92109?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://mains.services:2086/A.Jones01/1904550/92075?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",DOG TV
+http://cineapp.org:8000/Fernando/Fernando/28584?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Disney Junior FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106538?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT
+http://mains.services:2086/A.Jones01/1904550/92117?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT2
+http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT3
+http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT4
+http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT6
+http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
+http://mains.services:2086/A.Jones01/1904550/92137?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2
+http://mains.services:2086/A.Jones01/1904550/92138?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3
+http://mains.services:2086/A.Jones01/1904550/92139?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4
+http://mains.services:2086/A.Jones01/1904550/92140?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5
+http://mains.services:2086/A.Jones01/1904550/92141?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 1 HD
+http://cineapp.org:8000/Fernando/Fernando/28596?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6
+http://mains.services:2086/A.Jones01/1904550/92142?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://mains.services:2086/A.Jones01/1904550/92121?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.4.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FATIMA TV
+http://cineapp.org:8000/Fernando/Fernando/28629?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX
+http://mains.services:2086/A.Jones01/1904550/92086?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX COMEDY
+http://mains.services:2086/A.Jones01/1904550/92090?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX COMEDY
+http://cineapp.org:8000/Fernando/Fernando/2311?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME
+http://mains.services:2086/A.Jones01/1904550/92089?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME
+http://cineapp.org:8000/Fernando/Fernando/2314?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77399?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Comedy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.comedy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Crime PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.crime.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX LIFE
+http://mains.services:2086/A.Jones01/1904550/92087?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Life PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX MOVIES
+http://mains.services:2086/A.Jones01/1904550/92088?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX MOVIES (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77401?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Movies
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX SD
+http://cineapp.org:8000/Fernando/Fernando/2312?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",FUEL TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28599?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Ficcao
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ficcao.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Globo Now
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106261?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",HISTORIA
+http://mains.services:2086/A.Jones01/1904550/92114?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",HOLLYWOOD
+http://mains.services:2086/A.Jones01/1904550/92092?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",I Concerts FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106472?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",JIM JAM
+http://mains.services:2086/A.Jones01/1904550/92077?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MCM POP
+http://mains.services:2086/A.Jones01/1904550/92102?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MEZZO
+http://mains.services:2086/A.Jones01/1904550/92101?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",MOTORSPORT.TV
+http://mains.services:2086/A.Jones01/1904550/92127?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MOTORVISION
+http://mains.services:2086/A.Jones01/1904550/92126?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MTV
+http://cineapp.org:8000/Fernando/Fernando/5041?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MTV FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106476?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MTV PORTUGAL
+http://mains.services:2086/A.Jones01/1904550/92100?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MTV PORTUGAL HD
+http://cineapp.org:8000/Fernando/Fernando/28621?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",MY CUISINE
+http://cineapp.org:8000/Fernando/Fernando/3503?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO
+http://mains.services:2086/A.Jones01/1904550/92108?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://mains.services:2086/A.Jones01/1904550/92107?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
+http://cineapp.org:8000/Fernando/Fernando/3509?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",NBA TV
+http://mains.services:2086/A.Jones01/1904550/92125?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",NICKELODEON
+http://mains.services:2086/A.Jones01/1904550/92076?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",NICKELODEON
+http://cineapp.org:8000/Fernando/Fernando/7750?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",National Geographic PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.geographic.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Nick JR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Nickelodeon
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",ODISSEIA
+http://mains.services:2086/A.Jones01/1904550/92112?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",PORTO CANAL
+http://mains.services:2086/A.Jones01/1904550/92061?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Porto Canal
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/porto.canal.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",REAL MADRID TV
+http://mains.services:2086/A.Jones01/1904550/92123?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RT
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106511?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RTL
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106512?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP ACORES
+http://cineapp.org:8000/Fernando/Fernando/3499?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP ACORES
+http://mains.services:2086/A.Jones01/1904550/92051?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP AFRICA
+http://mains.services:2086/A.Jones01/1904550/92054?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP International
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP MEMORIA
+http://cineapp.org:8000/Fernando/Fernando/2319?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC K
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.k.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC KIDS
+http://cineapp.org:8000/Fernando/Fernando/5110?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC MULHER
+http://mains.services:2086/A.Jones01/1904550/92057?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC NOTICIAS
+http://mains.services:2086/A.Jones01/1904550/92058?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC RADICAL
+http://mains.services:2086/A.Jones01/1904550/92059?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV +
+http://mains.services:2086/A.Jones01/1904550/92122?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
+http://mains.services:2086/A.Jones01/1904550/92132?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28538?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 SD
+http://cineapp.org:8000/Fernando/Fernando/5151?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
+http://mains.services:2086/A.Jones01/1904550/92133?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
+http://mains.services:2086/A.Jones01/1904550/92134?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
+http://mains.services:2086/A.Jones01/1904550/92135?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
+http://mains.services:2086/A.Jones01/1904550/104687?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",SPORTING TV HD
+http://cineapp.org:8000/Fernando/Fernando/8074?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SYFY
+http://mains.services:2086/A.Jones01/1904550/92091?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SYFY
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SYFY (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77424?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",SYFY FHD
+http://cineapp.org:8000/Fernando/Fernando/28530?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Caras FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106241?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic K
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106276?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic K FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106275?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Mulher
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106240?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Noticias
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106216?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Radical
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106246?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Radical (extra)
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106247?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Radical FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106244?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic Radical ʰᵈ ²⁶⁵
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106245?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic ʰᵈ ᴴ²⁶⁵
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106201?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Sic ᶠʰᵈ ²⁶⁵
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106200?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious;Undefined",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv4.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv5.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV Plus PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC
+http://mains.services:2086/A.Jones01/1904550/92119?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC
+http://cineapp.org:8000/Fernando/Fernando/3513?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TPA Internacional
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106517?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TRACE TOCA
+http://mains.services:2086/A.Jones01/1904550/92103?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TRACE TOCA
+http://cineapp.org:8000/Fernando/Fernando/17255?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TV GLOBO
+http://mains.services:2086/A.Jones01/1904550/92096?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TV GLOBO PREMIUM
+http://mains.services:2086/A.Jones01/1904550/92097?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TV RECORD
+http://mains.services:2086/A.Jones01/1904550/92068?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TV SERIES
+http://mains.services:2086/A.Jones01/1904550/92094?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE 1
+http://mains.services:2086/A.Jones01/1904550/92082?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE 2
+http://mains.services:2086/A.Jones01/1904550/92083?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE 3
+http://mains.services:2086/A.Jones01/1904550/92084?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE 4
+http://mains.services:2086/A.Jones01/1904550/92085?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION
+http://cineapp.org:8000/Fernando/Fernando/2305?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77376?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EDITION
+http://cineapp.org:8000/Fernando/Fernando/2303?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVE 24H
+http://mains.services:2086/A.Jones01/1904550/92063?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVE INTERNACIONAL
+http://mains.services:2086/A.Jones01/1904550/92062?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/3435?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.24.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI FICÇÃO SD
+http://cineapp.org:8000/Fernando/Fernando/28568?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI REALITY
+http://mains.services:2086/A.Jones01/1904550/92067?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",TVR International
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106521?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tv Cine Top ᶠʰᵈ ²⁶⁵
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106279?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tv Record ʰᵈ ᴴ²⁶⁵
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106254?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi 24 FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106211?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi Ficçao FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106227?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi Reality
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106232?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",UFC FIGTH PASS FHD
+http://cineapp.org:8000/Fernando/Fernando/28615?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",VH1
+http://mains.services:2086/A.Jones01/1904550/92105?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",ZAP VIVA FHD
+http://cineapp.org:8000/Fernando/Fernando/28631?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven1
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",eleven3
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport",sporttvmais
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi Reality - CÐmara 4
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106237?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi Reality - CÐmara 2
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106235?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi Ficçao ʰᵈ ᴴ²⁶⁵
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106228?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",Tvi FHD
+http://revteam1.offshorerev.cc:80/de69r7B0/zGgvsKHtX8/106203?checkedby:iptvcat.com
